@@ -2,5 +2,3 @@
 delivery
 
 test
-
-asdf
